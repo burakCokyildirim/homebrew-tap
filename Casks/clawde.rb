@@ -1,6 +1,6 @@
 cask "clawde" do
-  version "2.0.6"
-  sha256 "4874ddac09c4819505b37b5efa13664429e49055d6c22170ea8702a536d13921"
+  version "2.0.7"
+  sha256 "c249c8ff271160120723328a735e39e9f17d18d01e15d17c92b8d876da5367e4"
 
   url "https://github.com/burakCokyildirim/clawde/releases/download/v#{version}/Clawde-#{version}.zip"
   name "Clawde"
